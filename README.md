@@ -6,6 +6,6 @@ a gerenal website deployment process
 ##Contents
 
 * prelaunch
-.. 1. DB Backups
-.. 2. Theme Backups
+    * DB Backups
+    * Theme Backups
 * post launch
