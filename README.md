@@ -5,5 +5,5 @@ a gerenal website deployment process
 
 ##Contents
 
-*prelaunch
-*post launch
+* prelaunch
+* post launch
