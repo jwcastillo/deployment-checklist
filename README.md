@@ -19,8 +19,8 @@ This section walks through the steps we take **before** deploying any website.
 2. Get a deployment plan together.
 3. Discuss deployment plan with key stakeholders.
 4. Final QA
-  4.1. Git Merge to Staging
-  4.2. Note all URLS that will need changing when live ( *the odd static url* )
+  1. Git Merge to Staging
+  2. Note all URLS that will need changing when live ( *the odd static url* )
 
 ## Deployment
 
