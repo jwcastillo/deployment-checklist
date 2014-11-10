@@ -52,14 +52,15 @@ TODO
 
 ### Method 2. FTP Deployment (with SSH)
 
-1. [___] `zip/archive` local site.
-2. [___] `ftp` zipped archive to remote.
-3. [___] `SSH` into remote location.
-4. [___] `unpack/extract` archive.
-5. [___] Set permissions.
-6. [___] Update configuration (if applicable).
-7. [___] Check if its working.
-8. [___] Update paths/URLs where applicable.
+1. [___] Remove any gulp/grunt assets (*node_modules*, *.sass-cache*, *bower assets*)
+2. [___] `zip/archive` local site.
+3. [___] `ftp` zipped archive to remote.
+4. [___] `SSH` into remote location.
+5. [___] `unpack/extract` archive.
+6. [___] Set permissions.
+7. [___] Update configuration (if applicable).
+8. [___] Check if its working.
+9. [___] Update paths/URLs where applicable.
 
 ## 5. Post Deployment
 
